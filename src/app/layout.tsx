@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Alvin Leonardo Resume",
-  description: "Using Next.Js",
+  description:
+    "Over 10 years of experience as Product Designer and Front End Development",
 };
 
 export default function RootLayout({
