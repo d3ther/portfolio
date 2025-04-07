@@ -1,3 +1,3 @@
-## Alvin Portfolio
+## Alvin Resume
 
-You can visit my portfolio at: https://alvin-leonardo.vercel.app
+You can visit my resume at: https://alvin-leonardo.vercel.app
